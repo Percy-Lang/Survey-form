@@ -1,3 +1,5 @@
+
+
 /* start of styles.css */
 
 body {
@@ -40,12 +42,13 @@ label {
   text-align: inline;
 }
 input, select, textarea, button {
-  width: 100%;
+  width: 85%;
   padding: 10px;
   margin-top: 5px;
   border: 2px solid pink;
   border-radius: 5px;
   text-align: inline;
+}
   textarea {
   resize: vertical;
 }
